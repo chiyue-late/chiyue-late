@@ -12,8 +12,7 @@
 
 **说过的话**
 
-- [#159661](https://github.com/NousResearch/hermes-agent/issues/159661) — 一次性会话碰到待批准提示会被永久挂死
-- [#159684](https://github.com/NousResearch/hermes-agent/issues/159684) — 同一个坑的另一面：没有非交互式的取消入口
+- [#159661](https://github.com/NousResearch/hermes-agent/issues/159661) — 一次性会话（-z）碰到待批准提示会被永久挂死
 
 **找我**
 
